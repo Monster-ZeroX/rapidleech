@@ -7,6 +7,7 @@
 <meta name="description" content="Neatblue simple skins for rapidleech">
 <meta name="keywords" content="neatblue">
 <link rel="stylesheet" href="templates/neatblue/styles/rl_style_pm.css">
+<script async src="https://arc.io/widget.min.js#8JCZBUCM"></script>
 <title><?php
 if (!isset($nn)) $nn = "\r\n";
 if (!isset($page_title)) {
