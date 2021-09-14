@@ -9,7 +9,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link title="Rapidleech Style" href="templates/plugmod/styles/rl_style_pm.css" rel="stylesheet" type="text/css" />
-
+<script async src="https://arc.io/widget.min.js#8JCZBUCM"></script>
 <title><?php
 if (!isset($nn)) $nn = "\r\n";
 if (!isset($page_title)) {
